@@ -102,6 +102,9 @@
         <mxCell id="9nDD6oZFU34gLlzTbC-f-31" value="Confirm booking" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nDD6oZFU34gLlzTbC-f-33" target="9nDD6oZFU34gLlzTbC-f-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9nDD6oZFU34gLlzTbC-f-33" value="Receive booking confirmation notification" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,6 +115,23 @@
               <mxPoint x="530" y="484" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nDD6oZFU34gLlzTbC-f-36" target="9nDD6oZFU34gLlzTbC-f-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-36" value="Mark as complete" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9nDD6oZFU34gLlzTbC-f-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-38" value="Rate/Review" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-42" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="1420" width="76" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
