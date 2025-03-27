@@ -22,7 +22,7 @@
         <mxCell id="9nDD6oZFU34gLlzTbC-f-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9nDD6oZFU34gLlzTbC-f-4" target="9nDD6oZFU34gLlzTbC-f-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9nDD6oZFU34gLlzTbC-f-4" value="Already exist account ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9nDD6oZFU34gLlzTbC-f-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Already exist account and approved ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="507.5" y="200" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9nDD6oZFU34gLlzTbC-f-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9nDD6oZFU34gLlzTbC-f-6" target="9nDD6oZFU34gLlzTbC-f-20" edge="1">
